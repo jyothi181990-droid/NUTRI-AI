@@ -1,0 +1,10 @@
+{
+  "name": "NutriAI",
+  "description": "NutriAI — Next-generation AI food intelligence platform with live food camera analysis, complete 20-nutrient composition profiles, global & Indian regional recipes, label scanning, food safety education, and multilingual support.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
